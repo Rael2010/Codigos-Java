@@ -1,7 +1,7 @@
 class Urna{
 	// Trabalho Urna Eletrônica
 	// Código realziado por Rael Fernando de Mello e Pietro Roldão Figueiró Info2M
-	// Atributos colocados como privados
+	// Atributos colocados como private
 	private int votos55;
 	private int votos51;
 	private int votosBrancos;
